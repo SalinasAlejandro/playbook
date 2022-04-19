@@ -97,7 +97,7 @@ const post = {
     user: 'Norykko',
     date: '05/04/2022',
     description: '...',
-    multimedi: {
+    multimedia: {
         photo1: 'url'
     }
 }
